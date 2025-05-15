@@ -1,6 +1,6 @@
 # Sentiment Analysis with SVM
 
-Proyek ini merupakan implementasi sederhana dari analisis sentimen menggunakan algoritma **Support Vector Machine (SVM)** dengan data teks ulasan. Dataset yang digunakan berasal dari file _Training.txt_, berisi berbagai opini terhadap film/buku seperti _The Da Vinci Code_ dan _Mission Impossible_.
+Tugas kali ini merupakan implementasi sederhana dari analisis sentimen menggunakan algoritma **Support Vector Machine (SVM)** dengan data teks ulasan. Dataset yang digunakan berasal dari file _Training.txt_, berisi berbagai opini terhadap film/buku seperti _The Da Vinci Code_ dan _Mission Impossible_.
 
 ---
 
