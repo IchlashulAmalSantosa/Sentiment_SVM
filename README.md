@@ -53,4 +53,4 @@ Contoh:
 ## Hasil
 
 - Model berhasil dilatih dan menghasilkan klasifikasi yang baik pada data positif.
-- Karena dataset hanya berisi label `1`, model tidak bisa sepenuhnya dievaluasi untuk klasifikasi biner. Tambahan data negatif diperlukan untuk akurasi menyeluruh.
+- Karena dataset hanya berisi label _1_, model tidak bisa sepenuhnya dievaluasi untuk klasifikasi biner. Tambahan data negatif diperlukan untuk akurasi menyeluruh.
