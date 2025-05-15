@@ -14,8 +14,8 @@ Proyek ini merupakan implementasi sederhana dari analisis sentimen menggunakan a
 
 Contoh:
 
-- `I love The Da Vinci Code...`
-- `Love luv lubb the Da Vinci Code!`
+- `The Da Vinci Code was awesome!`
+- `Mission Impossible 3 is amazing.`
 
 ---
 
